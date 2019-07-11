@@ -22,3 +22,4 @@ if ($qualsuaIdade < $idadeCrianca) {
 } else {
      Código a ser executado; 
 } */
+?>
