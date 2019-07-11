@@ -14,4 +14,11 @@ if ($qualsuaIdade < $idadeCrianca) {
     echo "É um idoso";
 }
 
-?>
+//Sintaxe do comando if
+/* if(condicao){
+     Código a ser executado; 
+} else if(condicao){
+     Código a ser executado; 
+} else {
+     Código a ser executado; 
+} */
