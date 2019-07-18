@@ -11,4 +11,9 @@ do{
 }while ($total > 100);
 echo $total;
 
-?>
+echo '<br>';
+
+$a = 5;
+do{
+echo $a;
+}while ($a < 4);//Observação: Cuidado para loop infinito, se a condição fosse $a > 4 entraria em loop Infinito.
