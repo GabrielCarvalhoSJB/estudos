@@ -17,3 +17,12 @@ $a = 5;
 do{
 echo $a;
 }while ($a < 4);//Observação: Cuidado para loop infinito, se a condição fosse $a > 4 entraria em loop Infinito.
+
+echo '<br>';
+
+$aumento = 250;
+
+do{
+    echo $aumento.'<br>';
+    $aumento += 50;
+}while ($aumento < 500 );
