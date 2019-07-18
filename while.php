@@ -13,4 +13,13 @@ while ($condicao){
     }
     echo $numero . ' ';
 }
+
+echo'<br>';
+
+$decimalSalario = 1000;
+
+while ($decimalSalario < 5000 ){
+   $decimalSalario *= 100;
+   echo 'Meu salario ainda é: '. $decimalSalario;
+}
 ?>
