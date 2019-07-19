@@ -7,7 +7,7 @@ print_r($frutas);
 echo'<br>';
 
 $pessoas = array();
-
+//array+push insere na variavel do array
 array_push($pessoas, array(
     'nome' => 'Gabriel',
     'idade' => 27
