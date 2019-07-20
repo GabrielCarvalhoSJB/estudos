@@ -4,7 +4,7 @@ if ($_REQUEST["action"] == "login") {
         session_start();
         $_SESSION["usuario"] = $_POST["campo_usuario"];
         $_SESSION["autenticado"] = TRUE;
-        header("Location: funcionou_session.php");
+        header("Location:funcionou_session.php");
     } else {
         echo "Seu nome de usuário ou senha esta incorretos";
     }
