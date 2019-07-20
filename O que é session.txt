@@ -1,0 +1,4 @@
+O que é session?
+Sessões são mecanismos disponibilizados pelo servidor que permitem persistir em determinadas 
+informações durante a sequência de acesso de um usuário a um site.
+fonte:Livro "Construindo aplicações web com PHP e Mysql", pag: 226.
