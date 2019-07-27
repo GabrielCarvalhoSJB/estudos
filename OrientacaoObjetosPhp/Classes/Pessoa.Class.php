@@ -1,6 +1,7 @@
 <?php
 class Pessoa{
     var $Codigo;
+    var $Nome;
     var $Altura;
     var $Idade;
     var $Nascimento;

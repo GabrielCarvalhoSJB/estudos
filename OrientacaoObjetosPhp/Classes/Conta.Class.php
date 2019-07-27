@@ -32,10 +32,6 @@ class Conta{
     function ObterSaldo(){
         return $this->Saldo;
     }
-//CONTINUAR NA PAGINA 94
-
-
-
 
 }
 ?>
