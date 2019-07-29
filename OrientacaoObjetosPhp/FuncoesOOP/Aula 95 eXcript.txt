@@ -1,0 +1,4 @@
+PHP Orientado a Objetos - Aula 95 - Implementando Funcionalidades em Classe - eXcript
+https://www.youtube.com/watch?v=AQVif1pz9aQ&list=PLesCEcYj003TrV2MvUOnmVtMdgIp0C4Pd&index=95
+Variáveis são as propriedades de um objeto
+Funções ações que os objetos fazem
